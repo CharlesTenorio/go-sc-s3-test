@@ -15,8 +15,8 @@ import (
 
 // TODO fill these in!
 const (
-	S3_REGION = "us-east-1"
-	S3_BUCKET = "go-sc-test-s3"
+	S3_REGION = ""
+	S3_BUCKET = ""
 )
 
 func main() {
