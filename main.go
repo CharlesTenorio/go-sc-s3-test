@@ -1,3 +1,10 @@
+/* Credits:
+ *	This source code was based on
+ * 	https://golangcode.com/uploading-a-file-to-s3/
+ * 	and
+ * 	https://github.com/gin-gonic/gin#upload-files
+ */
+
 package main
 
 import (
